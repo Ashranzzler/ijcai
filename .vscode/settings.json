@@ -1,0 +1,28 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/methodology.tex"
+            ],
+            "config": {
+                "audience": "knowledgeable",
+                "dialect": "american",
+                "domain": "academic",
+                "emotions": [
+                    "confident",
+                    "analytical"
+                ],
+                "goals": [
+                    "describe",
+                    "convince",
+                    "tellStory"
+                ]
+            }
+        }
+    ],
+    "git.ignoreLimitWarning": true,
+    "workbench.colorTheme": "White Peach Extended Framed Theme",
+    "workbench.preferredDarkColorTheme": "w3schools Light Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredLightColorTheme": "w3schools Light Theme"
+}
